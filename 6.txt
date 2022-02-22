@@ -1,0 +1,5 @@
+library ชื่อ pokefetcher-library สามารถ install ผ่าน npm (ใช้คำสั่ง npm install pokefetcher-library)
+library มี 3 ฟังก์ชัน ได้แก่ showAll showByid showByType
+    1.ฟังก์ชัน showAll ต้องการพารามิเตอร์ 2 ตัว คือ limit และ offset โดย parameter มี type เป็น number
+    2.ฟังก์ชัน showByid ต้องการพารามิเตอร์ 1 ตัว คือ pokemon id โดย parameter มี type เป็น number
+    3.ฟังก์ชัน showByType ต้องการพารามิเตอร์ 1 ตัว คือ pokemon type id โดย parameter มี type เป็น number
